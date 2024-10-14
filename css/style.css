@@ -1,8 +1,9 @@
+body {
+	backgrou url("../images/background.jpg");
+}
 td, th {
 	border: 1px solid;
   }
 
-body {
-	backgrou url("../images/background.jpg");
-}
+
   
