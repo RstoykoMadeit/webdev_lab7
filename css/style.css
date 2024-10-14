@@ -1,8 +1,18 @@
 body {
 	background url("../images/background.jpg");
 }
+
+#header h1{
+	position: center;
+	left:420px;
+	top:5px
+	font-size: 3em;
+	font-family: 'Devonshire', cursive;
+	color: #e35335;
+}
 td, th {
 	border: 1px solid;
+	font-size: 50px;
   }
 
 
