@@ -1,6 +1,11 @@
 body {
-	background url("../images/background.jpg");
+	font-family: Serif, sans-serif;
+	background-color: #000000;
+	color: #ffffff
+	padding: 20px;
 }
+
+
 
 td, th {
 	border: 5px solid;
