@@ -28,11 +28,31 @@ h1 {
 	font-size: 3em;
 }
 
+h2 {
+	font-family: Serif, sans-serif;
+	font-size: 5em;
+}
+
+.extra-facts {
+	text-align: center;
+	font-size: 3em;
+}
+
 table {
 	margin: 0 auto;
 }
 
+#blue {
+color: blue;
+}
 
+#red {
+	color: red;
+}
+
+#green {
+	color: green;
+}
 
 td, th {
 	position: center;
