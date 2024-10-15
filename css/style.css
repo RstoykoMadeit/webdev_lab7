@@ -11,9 +11,15 @@ td img {
 	border-radius: 10px;
 }
 
+h1 {
+	position: center;
+	color: #ffffff;
+}
+
 
 
 td, th {
+	position: center;
 	border: 5px solid;
 	color: #ffffff;
 	
