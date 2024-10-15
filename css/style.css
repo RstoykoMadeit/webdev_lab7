@@ -18,9 +18,14 @@ td img {
 }
 
 #planets {
-	font-family: Serif,  sans-serif;
 	border: 2px solid #ffffff;
 	border-radius: 20px;
+}
+
+h1 {
+	font-family: Serif, sans-serif;
+	margin-bottom: 30px;
+	font-size: 3em;
 }
 
 table {
