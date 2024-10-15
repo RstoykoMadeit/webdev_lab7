@@ -5,6 +5,12 @@ body {
 	padding: 20px;
 }
 
+td img {
+	max-width: 120px;
+	height: auto;
+	border-radius: 10px;
+}
+
 
 
 td, th {
