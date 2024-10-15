@@ -11,10 +11,19 @@ td img {
 	border-radius: 10px;
 }
 
-h1 {
+#main-title {
 	text-align: center;
 	color: #ffffff;
 	margin-bottom: 25px;
+}
+
+#planets {
+	border: 2px solid #fff;
+	border-radius: 20px;
+}
+
+table {
+	margin: 0 auto;
 }
 
 
