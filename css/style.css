@@ -12,8 +12,9 @@ td img {
 }
 
 h1 {
-	position: center;
+	text-align: center;
 	color: #ffffff;
+	margin-bottom: 25px
 }
 
 
